@@ -1,0 +1,79 @@
+2025-04-05 21:28:03,399 - INFO - Fetching price from books.toscrape.com
+2025-04-05 21:28:33,322 - INFO - Fetching price from books.toscrape.com
+2025-04-05 21:28:55,489 - INFO - Fetching price from www.meesho.com
+2025-04-05 21:28:55,794 - ERROR - Failed to fetch URL with requests: 403 Client Error: Forbidden for url: https://www.meesho.com/imported-popcorn-stylish-shirts-for-mens-and-female/p/67avhd
+2025-04-05 21:28:55,794 - INFO - Using Selenium for www.meesho.com
+2025-04-05 21:28:55,794 - INFO - ====== WebDriver manager ======
+2025-04-05 21:28:57,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:28:57,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:28:57,999 - INFO - There is no [win64] chromedriver "135.0.7049.42" for browser google-chrome "135.0.7049" in cache
+2025-04-05 21:28:58,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:28:58,796 - INFO - WebDriver version 135.0.7049.42 selected
+2025-04-05 21:28:58,798 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-05 21:28:58,798 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-05 21:28:59,132 - INFO - Driver downloading response is 200
+2025-04-05 21:29:00,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:29:01,207 - INFO - Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42]
+2025-04-05 21:29:45,230 - INFO - Fetching price from www.amazon.in
+2025-04-05 21:29:45,859 - INFO - Using Selenium for www.amazon.in
+2025-04-05 21:29:45,860 - INFO - ====== WebDriver manager ======
+2025-04-05 21:29:47,014 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:29:47,330 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:29:47,650 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 21:30:11,544 - INFO - Fetching price from www.flipkart.com
+2025-04-05 21:30:12,465 - INFO - Using Selenium for www.flipkart.com
+2025-04-05 21:30:12,468 - INFO - ====== WebDriver manager ======
+2025-04-05 21:30:13,622 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:30:13,940 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:30:14,226 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 21:30:20,121 - ERROR - Failed to extract data from flipkart.com: 'NoneType' object has no attribute 'text'
+2025-04-05 21:30:20,122 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 21:36:37,897 - INFO - Fetching price from www.flipkart.com
+2025-04-05 21:36:38,707 - INFO - Using Selenium for www.flipkart.com
+2025-04-05 21:36:38,709 - INFO - ====== WebDriver manager ======
+2025-04-05 21:36:40,172 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:36:40,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:36:40,792 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 21:36:47,032 - ERROR - Failed to extract data from flipkart.com: 'NoneType' object has no attribute 'text'
+2025-04-05 21:36:47,033 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 21:45:30,259 - INFO - Fetching price from www.flipkart.com
+2025-04-05 21:45:31,049 - INFO - Using Selenium for www.flipkart.com
+2025-04-05 21:45:31,051 - INFO - ====== WebDriver manager ======
+2025-04-05 21:45:32,550 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:45:32,845 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:45:33,178 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 21:45:40,460 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 21:48:01,411 - INFO - Fetching price from www.flipkart.com
+2025-04-05 21:48:02,298 - INFO - Using Selenium for www.flipkart.com
+2025-04-05 21:48:02,299 - INFO - ====== WebDriver manager ======
+2025-04-05 21:48:03,785 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:48:04,061 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:48:04,387 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 21:48:11,503 - WARNING - Flipkart listing page detected - need specific product URL
+2025-04-05 21:48:11,503 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 21:51:02,659 - INFO - Fetching price from www.flipkart.com
+2025-04-05 21:51:03,471 - INFO - Using Selenium for www.flipkart.com
+2025-04-05 21:51:03,472 - INFO - ====== WebDriver manager ======
+2025-04-05 21:51:04,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:51:05,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 21:51:05,585 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 21:51:12,882 - WARNING - No products found on this Flipkart listing page
+2025-04-05 21:51:12,883 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 22:08:58,811 - INFO - Fetching price from www.flipkart.com
+2025-04-05 22:08:58,812 - INFO - ====== WebDriver manager ======
+2025-04-05 22:09:00,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 22:09:00,709 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 22:09:01,034 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 22:09:15,295 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 22:09:22,238 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA636DC550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b91347e837c6e1302134e87af1a27946
+2025-04-05 22:09:26,298 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA636DCCD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b91347e837c6e1302134e87af1a27946
+2025-04-05 22:09:30,344 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA636C8E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b91347e837c6e1302134e87af1a27946
+2025-04-05 22:12:29,872 - INFO - Fetching price from www.flipkart.com
+2025-04-05 22:12:29,873 - INFO - ====== WebDriver manager ======
+2025-04-05 22:12:31,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 22:12:31,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-05 22:12:32,004 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-05 22:12:48,758 - INFO - Specific extractor failed for www.flipkart.com, trying generic extractor
+2025-04-05 22:12:55,428 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B6230550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05939380caf8406e23c3178b439f777f
+2025-04-05 22:12:59,467 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B6230CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05939380caf8406e23c3178b439f777f
+2025-04-05 22:13:03,537 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B6218E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05939380caf8406e23c3178b439f777f
